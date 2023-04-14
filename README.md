@@ -4,7 +4,7 @@ This flow diagram is based on the popular MURAL resource from GOV.UK, created by
 
 ## Before you start
 
-**You need to have an nhs.net or hscic.gov.uk email to gain access to this MURAL board**
+**You need to have an nhs.net or hscic.gov.uk email and be a workspace membeer of NHS England Mural to gain access to this kit**
 
 ## Instructions
 
